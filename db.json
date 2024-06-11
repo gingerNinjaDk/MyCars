@@ -1,0 +1,65 @@
+{
+    "vehicles": [
+      {
+        "regNo": "ABC123",
+        "make": "Toyota",
+        "model": "Corolla",
+        "year_of_manufacture": 2015
+      },
+      {
+        "regNo": "XYZ789",
+        "make": "Honda",
+        "model": "Civic",
+        "year_of_manufacture": 2018
+      },
+      {
+        "regNo": "LMN456",
+        "make": "Ford",
+        "model": "Focus",
+        "year_of_manufacture": 2017
+      },
+      {
+        "regNo": "GHI321",
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year_of_manufacture": 2019
+      },
+      {
+        "regNo": "JKL654",
+        "make": "Nissan",
+        "model": "Altima",
+        "year_of_manufacture": 2020
+      },
+      {
+        "regNo": "QRS987",
+        "make": "BMW",
+        "model": "3 Series",
+        "year_of_manufacture": 2016
+      },
+      {
+        "regNo": "TUV246",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "year_of_manufacture": 2017
+      },
+      {
+        "regNo": "WXY135",
+        "make": "Audi",
+        "model": "A4",
+        "year_of_manufacture": 2019
+      },
+      {
+        "regNo": "ZAB864",
+        "make": "Volkswagen",
+        "model": "Jetta",
+        "year_of_manufacture": 2018
+      },
+      {
+        "regNo": "CDE975",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "year_of_manufacture": 2020
+      }
+    ]
+  }
+  
